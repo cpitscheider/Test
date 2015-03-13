@@ -50,9 +50,10 @@ HowTo : search for default passwords for Cisco (http://portforward.com/default_u
         insert username : root and password : attack
         the browser alert contains the flag reversed : ssaptluafed_sigalf_cesofni
         
-Level 10: sound
-Flag : 
-HowTo : 
+Level 10: 
+Flag : infosec_flagis_sound
+HowTo : reduce the pitch and the speed of the audio
+        https://twistedwave.com/online/
 
 Level 11: 
 Flag : infosec_flagis_POWERSLIDE
@@ -66,9 +67,10 @@ HowTo : save the php-logo image to your computer
         
 
 
-Level 12: dig deeper
-Flag : 
-HowTo : 
+Level 12: 
+Flag : #696e666f7365635f666c616769735f686579696d6e6f7461636f6c6f72
+HowTo : the design.css file contains a color code (696e666f7365635f666c616769735f686579696d6e6f7461636f6c6f72)
+        it is HEX and needs to be converted into ASCII (http://www.rapidtables.com/convert/number/hex-to-ascii.htm)
 
 
 Level 13: ???
