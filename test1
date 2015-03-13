@@ -1,4 +1,31 @@
-dsfsdf
+Level 1:
+Flag : infosec_flagis_welcome
+HowTo : right-click -> show source -> first line of HTML-source-file
+
+Level 2:
+Flag : infosec_flagis_wearejuststarting
+HowTo : 1) Download the image (http://ctf.infosecinstitute.com/img/leveltwo.jpeg)
+        2) open the image with a text editor
+        3) the image contains a string base64 encoded (aW5mb3NlY19mbGFnaXNfd2VhcmVqdXN0c3RhcnRpbmc=)
+        4) decode the string (https://www.base64decode.org)
+        
+        
+Level 3:
+Flag : INFOSECFLAGISMORSING 
+HowTo : 1) the image (http://ctf.infosecinstitute.com/img/qrcode.png) is a QR code
+        2) decode the QR code (http://zxing.org/w/decode.jspx)
+        3) the QR code contains a mosre code (.. -. ..-. --- ... . -.-. ..-. .-.. .- --. .. ... -- --- .-. ... .. -. --.))
+        4) code the morse code (http://www.onlineconversion.com/morse_code.htm)
 
 
-hellp
+Level 4:
+Flag : 
+HowTo : 
+
+Level 5:
+Flag : 
+HowTo :
+
+Level 6:
+Flag : 
+HowTo : 
