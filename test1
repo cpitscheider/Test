@@ -90,6 +90,9 @@ HowTo : the "friends" table contains a comment which is Unicode decoded (\\u0069
         decode it (http://rishida.net/tools/conversion/)
         
        
-Level 13: DNS
+Level 15: DNS
 Flag : 
-HowTo :  
+HowTo :  enter | cat .hey 
+         or go to http://ctf.infosecinstitute.com/levelfifteen/.hey
+         you get a string (Miux+mT6Kkcx+IhyMjTFnxT6KjAa+i6ZLibC)
+         
