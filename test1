@@ -28,13 +28,17 @@ Level 5: aliens
 Flag : 
 HowTo :
 
-Level 6: pcap
-Flag : 
-HowTo : 
+Level 6: 
+Flag : http://www.rapidtables.com/convert/number/hex-to-ascii.htm
+HowTo : open the file with https://www.cloudshark.org
+        the first packet contains a HEX 696e666f7365635f666c616769735f736e6966666564
+        convert the hex to ascii (http://www.rapidtables.com/convert/number/hex-to-ascii.htm)
 
-Level 7: error404
-Flag : 
-HowTo : 
+Level 7: 
+Flag : infosec_flagis_youfoundit
+HowTo : go to http://ctf.infosecinstitute.com/levelseven.php
+        the response contains the status code 200OK and aW5mb3NlY19mbGFnaXNfeW91Zm91bmRpdA==
+        aW5mb3NlY19mbGFnaXNfeW91Zm91bmRpdA== is base64 encoded (https://www.base64decode.org)
 
 Level 8:
 Flag : infosec_flagis_0x1a
