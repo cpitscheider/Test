@@ -54,9 +54,16 @@ Level 10: sound
 Flag : 
 HowTo : 
 
-Level 11: sound2
-Flag : 
-HowTo : 
+Level 11: 
+Flag : infosec_flagis_POWERSLIDE
+HowTo : save the php-logo image to your computer
+        open the image wit a text editor
+        serach for infosec_flagis_
+        your will find : infosec_flagis_aHR0cDovL3d3dy5yb2xsZXJza2kuY28udWsvaW1hZ2VzYi9wb3dlcnNsaWRlX2xvZ29fbGFyZ2UuZ2lm
+        aHR0cDovL3d3dy5yb2xsZXJza2kuY28udWsvaW1hZ2VzYi9wb3dlcnNsaWRlX2xvZ29fbGFyZ2UuZ2lm is base64 encoded
+        decode it and go to the URL (http://www.rollerski.co.uk/imagesb/powerslide_logo_large.gif)
+        it is the logo of POWERSLIDE
+        
 
 
 Level 12: dig deeper
