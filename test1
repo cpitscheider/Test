@@ -30,7 +30,7 @@ HowTo :
 
 Level 6: 
 Flag : http://www.rapidtables.com/convert/number/hex-to-ascii.htm
-HowTo : open the file with https://www.cloudshark.org
+HowTo : open the file with https://appliance.cloudshark.org/upload/
         the first packet contains a HEX 696e666f7365635f666c616769735f736e6966666564
         convert the hex to ascii (http://www.rapidtables.com/convert/number/hex-to-ascii.htm)
 
@@ -74,8 +74,14 @@ HowTo : the design.css file contains a color code (696e666f7365635f666c616769735
 
 
 Level 13: ???
-Flag : 
-HowTo : 
+Flag : infosec_flasgis_morepackets
+HowTo : go to http://ctf.infosecinstitute.com/levelthirteen.php.old
+        this site contains a comment with a link to a file : misc/imadecoy
+        the file is a pcap file,  open it (https://appliance.cloudshark.org/upload/)
+        packet number 633 is a png image
+        copy the HEX values and convert into base64 (http://tomeko.net/online_tools/hex_to_base64.php?lang=en)
+        convert base64 into a image (http://www.askapache.com/online-tools/base64-image-converter/)
+        
 
 
 Level 14:
